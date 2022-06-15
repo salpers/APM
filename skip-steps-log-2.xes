@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<trace>
+		<event>
+			<string key="concept:name" value="a" />
+		</event>
+		<event>
+			<string key="concept:name" value="b" />
+		</event>
+        <event>
+			<string key="concept:name" value="c" />
+		</event>
+		<event>
+			<string key="concept:name" value="d" />
+		</event>
+		<event>
+			<string key="concept:name" value="e" />
+		</event>
+	</trace>
+    <trace>
+		<event>
+			<string key="concept:name" value="a" />
+		</event>
+        <event>
+			<string key="concept:name" value="e" />
+		</event>
+	</trace>
+</log>
